@@ -1,0 +1,4 @@
+﻿  example_1.cpp
+c:\users\sanjay\source\repos\lehel\lehel\lehel\example_1.cpp(55): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\sanjay\source\repos\lehel\lehel\lehel\example_1.cpp(56): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Lehel.vcxproj -> C:\Users\Sanjay\source\repos\Lehel\Lehel\x64\Debug\Lehel.exe
